@@ -1,3 +1,10 @@
+---
+title: "unas"
+author: "Georgiy Derbenev (George)"
+description: "unas: a powerful, standalone NAS made simple"
+created_at: "14-06-2025"
+---
+
 # Day 1
 
 ## Idea
