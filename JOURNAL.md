@@ -23,4 +23,9 @@ Project components:
 * Two fans (for CPU cooling and in‑case air circulation)
 * Heatsink for the SBC’s CPU
 
+### Additional Items
+These components are used alongside the project but are not part of the core build:
+* HDDs (WD Elements × 2)
+* Power adapter (5 V, 3 A)
+
 **Time spent:** 2 hours.
