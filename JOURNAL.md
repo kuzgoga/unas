@@ -36,3 +36,13 @@ These components are used alongside the project but are not part of the core bui
 * Power adapter (5 V, 3 A)
 
 **Time spent:** 2 hours.
+
+# Day 2
+
+![3D Model](https://github.com/kuzgoga/unas/blob/main/3d01.png?raw=true)
+Features:
+- Batteries case
+- INA 219 x 2
+- Stands
+
+Time: 1,5 hours.
