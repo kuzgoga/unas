@@ -39,10 +39,20 @@ These components are used alongside the project but are not part of the core bui
 
 # Day 2
 
-![3D Model](https://github.com/kuzgoga/unas/blob/main/3d01.png?raw=true)
+![3D Model](https://github.com/kuzgoga/unas/blob/main/media/3d01.png?raw=true)
 Features:
 - Batteries case
 - INA 219 x 2
 - Stands
 
 Time: 1,5 hours.
+
+# Day 3
+![3D Model](https://github.com/kuzgoga/unas/blob/main/media/day_3.png?raw=true)
+![3D Model: power connector](https://github.com/kuzgoga/unas/blob/main/media/day_3_2.png?raw=true)
+Changes:
+- Realistic mock for UPS module (sizes was gotten fron an item photo)
+- Heating holes
+- Power connector pocket
+
+Time: 3.5 hours
