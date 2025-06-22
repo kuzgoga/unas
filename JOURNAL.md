@@ -56,3 +56,9 @@ Changes:
 - Power connector pocket
 
 Time: 3.5 hours
+
+# Day 4
+![3D Model](https://github.com/kuzgoga/unas/blob/main/media/day_4.png?raw=true)
+Updates:
+- new cooling holes
+Currently I'm working on Nano Pi R4S 3D model...
