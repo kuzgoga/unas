@@ -52,7 +52,7 @@ Time: 1,5 hours.
 ![3D Model: power connector](https://github.com/kuzgoga/unas/blob/main/media/day_3_2.png?raw=true)
 Changes:
 - Realistic mock for UPS module (sizes was gotten fron an item photo)
-- Heating holes
+- Cooling holes
 - Power connector pocket
 
 Time: 3.5 hours
